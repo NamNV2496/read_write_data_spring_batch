@@ -12,7 +12,9 @@
     </parent>
 
     <modules>
-        <module></module>
+        <module>read_from_csv_store_to_mysql</module>
+        <module>read_from_mysql_write_to_csv</module>
+        <module>manual_trigger_read_write</module>
     </modules>
 
 
